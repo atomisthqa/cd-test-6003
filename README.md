@@ -1,7 +1,7 @@
 # Development Automation with Atomist and a Reactive Spring and Kotlin-based Application
    
 by [Josh Long](http://twitter.com/starbuxman) 
- 
+   
 Spring Framework 5, just released a few weeks ago, is the beginning of a new paradigm for the Spring ecosystem. It's a full throated embrace of the principles of reactive programming. Spring Framework 5 builds on project Reactor, extending the reactive metaphor to a new reactive web runtime and component model called Spring WebFlux. Reactive programming goes hand in hand with functional programming. Spring Framework 5 has a strong functional foundation, requiring a Java 8 baseline and shipping with Kotlin-language integrations for Spring WebFlux, bean configuration, and more.
 
 Spring Framework 5 is only the beginning. it is the foundation for enhancements across the Spring portfolio. The just released Spring Data Kay ships with support for reactive NoSQL stores like Cassandra, Redis, Couchbase and MongoDB. We're nearing the final release of Spring Security 5.0, also built on Spring Framework 5, that supports authentication and authorization in a reactive world. All of this rolls up into [Spring Boot 2.0](http://start.spring.io), due in December, and Spring Cloud Finchley, due early 2018, as an integrated, reactive end-to-end experience.
