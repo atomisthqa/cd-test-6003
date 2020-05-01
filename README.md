@@ -1,5 +1,5 @@
 # Development Automation with Atomist and a Reactive Spring and Kotlin-based Application
-           
+            
 by [Josh Long](http://twitter.com/starbuxman) 
     
 Spring Framework 5, just released a few weeks ago, is the beginning of a new paradigm for the Spring ecosystem. It's a full throated embrace of the principles of reactive programming. Spring Framework 5 builds on project Reactor, extending the reactive metaphor to a new reactive web runtime and component model called Spring WebFlux. Reactive programming goes hand in hand with functional programming. Spring Framework 5 has a strong functional foundation, requiring a Java 8 baseline and shipping with Kotlin-language integrations for Spring WebFlux, bean configuration, and more.
